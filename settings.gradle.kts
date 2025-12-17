@@ -1,4 +1,4 @@
-rootProject.name = "KmpExample"
+rootProject.name = "KMP-App-Template"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
